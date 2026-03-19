@@ -1,6 +1,6 @@
 # Day 3 : 
 
-  Some conceptual codes on Types of function defination & on types of function arguments.
+# Some conceptual codes on Types of function defination & on types of function arguments.
 
 # Types of Function Arguments in Python : 
 
