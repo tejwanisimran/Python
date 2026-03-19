@@ -1,0 +1,12 @@
+# Accept : Multiple parameter
+# Return : Nothing
+
+def Marvellous1(Value1,Value2):                   # Positional Arguments
+    print("Inside Marvellous1 :",Value1,Value2)
+
+def main():
+    Marvellous1("Python",21)
+
+if __name__ == "__main__":
+    main()
+    
