@@ -9,7 +9,8 @@
   task at the same time making optimal use of the available resources sepcially when your computer has multiple CPU's.
 - MultiThreading extend the idea of the multitasking into applications where you can subdivide speccific operations with
   single application into individual threads.
-- 
+- The OS divides processing time not only among different applications but also among the each thread within the application.
+- MultiThreading enables us to write in a way where activities can proceed concurrently in the same program.  
 
 
 
