@@ -1,3 +1,4 @@
-# Python
-
-Conceptual & logical codes on Python , Automation , Machine Learning , Deep Learning
+## Python
+---
+### Conceptual & logical codes on Python , Automation , Machine Learning , Deep Learning , GenAI , LLMs , Transformers ,etc
+---
