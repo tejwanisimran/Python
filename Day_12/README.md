@@ -6,7 +6,7 @@
 ---
 ## 1. Directory Traversal (os module)
  - Used os.walk() to iterate through directories and subdirectories.
- - This helped in accessing all files inside a folder structure efficiently.
+ - This helped in accessing all files inside a folder structure efficiently. 
 ---
 ## 2. Path Handling (os.path)
 - Learned how to handle file paths using functions like os.path.join(), os.path.exists(), and os.path.isdir()
