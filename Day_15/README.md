@@ -16,3 +16,4 @@
 ---
 ### 4. Classification Problem Understanding:
 - Understood how ML models classify data into categories based on patterns, such as distinguishing between tennis and cricket balls.
+---
