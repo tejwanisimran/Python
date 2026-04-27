@@ -1,5 +1,6 @@
 ## Day 22 :
 ## Solved Case Study (Wine Predictor) using Industrial steps.
+## This case study implements a Machine Learning classification model using the K-Nearest Neighbors (KNN) algorithm to classify wine types based on their chemical properties.
 ---
 ### Learned concepts like : 
 ---
