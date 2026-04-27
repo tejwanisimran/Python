@@ -1,6 +1,7 @@
 ## Day 21 : 
 
-## Case Study (Advertising) solved using Industrial steps.
+##  Solved Case Study (Advertising) with Industrial steps.
+## This case study performs a complete Data Analysis and Machine Learning workflow on the Advertising dataset.
 ---
 ### Concepts learned like : 
 ---
