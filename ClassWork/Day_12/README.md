@@ -1,7 +1,7 @@
 ## Day 12 : 
 
 ## Conceptual codes to understand directory automation.
----
+--- 
 ### Learnt concepts like : 
 ---
 ### 1. Directory Traversal (os module)
