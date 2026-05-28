@@ -7,7 +7,7 @@
 ## Command Line Arguments : 
 
 - Command line arguments are values passed to a program when you run it from the terminal (command prompt).
-- They allow you to give input to your program without hardcoding values.
+- They allow you to give input to your program without hardcoding values. 
 - Syntax :
   
 ```
