@@ -3,7 +3,7 @@
 ## Conceptual codes to understand File I/O in python & start of directory automation.
 
 ---
-
+ 
 ## File I/O in Python : 
 
 - File is named location on disk to store related information.
