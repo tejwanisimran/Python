@@ -5,7 +5,7 @@
 ### Learnt concepts like : 
 ---
 ### 1. System Monitoring (psutil) 
-- Learned to fetch CPU, memory, disk, and process information.
+- Learned to fetch CPU, memory, disk, and process information. 
 ---
 ### 2. Process Management 
 - Retrieved details of running processes like PID, name, and status.
