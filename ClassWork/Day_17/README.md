@@ -1,6 +1,6 @@
 ## Day 17 : 
 
-## Conceptual codes to understand visualization using Matplotlib & seaborn & Data Handling using Pandas library.
+## Conceptual codes to understand visualization using Matplotlib & seaborn & Data Handling using Pandas library. 
 ---
 ### Learnt concepts like : 
 ---
