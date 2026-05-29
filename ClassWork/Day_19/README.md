@@ -1,8 +1,8 @@
 ## Day 19 : 
 
 ## Conceptual codes to understand Algorthims : 
-## - DescissionTreeClassifier
-## - KNN
+## - DescissionTreeClassifier 
+## - KNN 
 ---
 ### Learnt Concepts like :
 ---
