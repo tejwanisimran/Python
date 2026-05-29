@@ -1,5 +1,5 @@
 ## Day 26 : 
-## Learnt algorithm Support Vector Machine(SVM) & concept of voting classifier in Machine Learning using case study of Breast Cancer.
+## Learnt algorithm Support Vector Machine(SVM) & concept of voting classifier in Machine Learning using case study of Breast Cancer : 
 ---
 ### 🔹 1. Support Vector Machine (SVM)
 - Support Vector Machine is a supervised learning algorithm used for classification.
