@@ -1,5 +1,5 @@
 ## Day 25 : 
-## Learned concepts of Bagging & Boosting in Machine Learning using case studies :
+## Learned concepts of Bagging & Boosting in Machine Learning using case studies : 
 ## - California Housing & 
 ## - Breast Cancer
 ---
