@@ -1,6 +1,6 @@
 ## Day 14 : 
 
-## Conceptual codes to understand Data Backup & Automation 
+## Conceptual codes to understand Data Backup & Automation.
 ---
 ### Learnt concepts like : 
 ---
