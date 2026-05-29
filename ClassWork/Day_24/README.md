@@ -1,5 +1,5 @@
 ## Day 24 : 
-## Solved Case Study (Mall_Customers) with Industrial steps.
+## Solved Case Study (Mall_Customers) with Industrial steps : 
 
 ## This case study applies K-Means Clustering (Unsupervised Learning) to segment mall customers based on their spending behavior.
 ---
