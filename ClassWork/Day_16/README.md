@@ -1,6 +1,6 @@
 ## Day 16 : 
 
-### Conceptual codes to understand the Machine Learning using Case Study :
+### Conceptual codes to understand the Machine Learning using Case Study : 
 ### - Ball Classification
 ### - Iris Case Study
 ---
