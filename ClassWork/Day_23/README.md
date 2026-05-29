@@ -1,5 +1,5 @@
 ## Day 3 : 
-## Solved case study (Titanic) with industrial steps.
+## Solved case study (Titanic) with industrial steps : 
 ## This case study builds a Machine Learning model to predict whether a passenger survived the Titanic disaster.
 ---
 ### Learned concepts like : 
