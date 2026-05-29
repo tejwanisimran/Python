@@ -1,6 +1,6 @@
 ## Day 15 : 
 
-## Conceptual codes to understand the Machine Learning.
+## Conceptual codes to understand the Machine Learning. 
 ---
 ## Learnt concepts like : 
 ---
