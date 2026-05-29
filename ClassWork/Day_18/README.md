@@ -1,6 +1,6 @@
 ## Day  18 : 
 
-## Industrial steps to solve any Case Study(Iris):
+## Industrial steps to solve any Case Study(Iris) :
 ---
 ### Step 1 : 
 - Load the dataset.
