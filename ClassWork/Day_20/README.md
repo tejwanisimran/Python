@@ -1,6 +1,6 @@
 ## Day 20 :
 
-## Conceptual codes to understand Linear Regerssion Algorithm.
+## Conceptual codes to understand Linear Regerssion Algorithm : 
 ---
 ### Concepts Learned like : 
 ---
