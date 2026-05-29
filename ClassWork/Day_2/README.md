@@ -1,6 +1,6 @@
 ## Day 2 : 
 
-## Conceptual codes on Functions in Python 
+## Conceptual codes on Functions in Python : 
 ---
 
 ## Function in Python : 
