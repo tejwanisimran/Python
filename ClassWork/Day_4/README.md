@@ -1,6 +1,6 @@
 ## Day 4 : 
 
-## Conceptual codes on sequence,selection & iteration & on lambda functions in python.
+## Conceptual codes on sequence,selection & iteration & on lambda functions in python : 
 ---
 
 ## Selection in Python 
