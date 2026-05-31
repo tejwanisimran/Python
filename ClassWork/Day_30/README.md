@@ -3,7 +3,7 @@
 ---
 ### 🚀 Topics Covered : 
 ---
-### 🔹 Convolutional Neural Networks (CNN)
+### 🔹 Convolutional Neural Networks (CNN) : 
 - Step-by-step CNN pipeline:
 ```
 Convolution layers
