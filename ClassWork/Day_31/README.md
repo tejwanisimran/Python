@@ -1,5 +1,5 @@
 ## Day 31 : 
-## Python programs that explain the core concepts of Recurrent Neural Networks (RNNs) step by step using simple examples and TensorFlow/Keras.
+## Python programs that explain the core concepts of Recurrent Neural Networks (RNNs) step by step using simple examples and TensorFlow/Keras : 
 ---
 ### 📚 Topics Covered : 
 ---
