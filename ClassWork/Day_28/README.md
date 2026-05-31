@@ -1,5 +1,5 @@
 ## Day 28 : 
-## Learned concepts of Back Propogation & Loss Functions in ANN.
+## Learned concepts of Back Propogation & Loss Functions in ANN : 
 ---
 ### 📂 Files Included
 ---
