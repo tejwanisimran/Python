@@ -1,5 +1,5 @@
-## Day 32 
-## Concepts of advanced Recurrent Neural Network (RNN) examples implemented using Python and TensorFlow/Keras.
+## Day 32 : 
+## Concepts of advanced Recurrent Neural Network (RNN) examples implemented using Python and TensorFlow/Keras : 
 ---
 ### 📚 Topics Included : 
 ---
