@@ -1,8 +1,9 @@
-# Day 6 :  
+## Day 6 :  
 
-# Conceptual codes on MultiThreading in Python.
+## Conceptual codes on MultiThreading in Python : 
+---
 
-# MultiThreading in Python : 
+### MultiThreading in Python : 
 
 - Python is multithreaded programming language which means we can develop multi-threaded program using python.  
 - A multi-threaded program contains two or more parts that can run concurrently & each part can handle a different  
