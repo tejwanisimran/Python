@@ -1,5 +1,5 @@
 ## Day 29 : 
-## Learned Concepts of Feed-Forward Neural Network(FNN) & Convolutional Neural Network(CNN) in Deep Leearning.
+## Learned Concepts of Feed-Forward Neural Network(FNN) & Convolutional Neural Network(CNN) in Deep Leearning : 
 ---
 ### 📌 Topics Covered
 ---
