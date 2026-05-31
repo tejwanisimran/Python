@@ -1,5 +1,5 @@
 ## Day 34 : 
-## Implementations of Deep Learning concepts using Python and popular libraries such as TensorFlow, Keras, Scikit-learn, NumPy, and Pandas.
+## Implementations of Deep Learning concepts using Python and popular libraries such as TensorFlow, Keras, Scikit-learn, NumPy, and Pandas : 
 ---
 
 ### 📚 Concepts Covered
