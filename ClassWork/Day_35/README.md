@@ -1,5 +1,5 @@
 ## Day 35 : 
-## Recurrent Neural Networks (RNN) and Transformers – Concept Demonstrations
+## Recurrent Neural Networks (RNN) and Transformers – Concept Demonstrations : 
 ---
 
 It contains Python programs focused on understanding the internal working of **Recurrent Neural Networks (RNNs)** and **Transformer architectures** using simple, step-by-step implementations.
