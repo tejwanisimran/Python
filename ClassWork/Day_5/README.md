@@ -2,7 +2,7 @@
 
 #### Conceptual codes on filter() , map() , reduce() i.e FMR in python &   
 #### Written UserDefined FMR &  
-#### Conceptual codes on local global variable in python  
+#### Conceptual codes on local global variable in python.
 ---
 
 ## FMR in python  
