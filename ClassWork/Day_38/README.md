@@ -8,7 +8,7 @@
 
 ---
 
-### Application Overview
+### Application Overview : 
 
 The system reads student data from a CSV file and performs:
 
@@ -76,7 +76,7 @@ The application provides:
 
 ---
 
-### Data Visualization
+### Data Visualization : 
 
 - The application generates multiple charts for better understanding of data.
 
@@ -92,7 +92,7 @@ The application provides:
 
 ---
 
-### Technologies Used
+### Technologies Used : 
 
 * Python
 * Pandas
@@ -101,7 +101,7 @@ The application provides:
 
 ---
 
-### Concepts Demonstrated
+### Concepts Demonstrated : 
 
 * Data Analysis
 * Data Aggregation
