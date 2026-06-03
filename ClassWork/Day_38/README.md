@@ -1,4 +1,4 @@
-## Day 39 : 
+## Day 38 : 
 ## Data Analytics Using Python, Pandas, and Matplotlib : 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-# Application Overview
+### Application Overview
 
 The system reads student data from a CSV file and performs:
 
@@ -22,9 +22,10 @@ The system reads student data from a CSV file and performs:
 
 ---
 
-# Features
+### Features : 
+---
 
-## Dataset Analysis
+### Dataset Analysis
 
 The application provides:
 
@@ -38,7 +39,6 @@ The application provides:
 ---
 
 ### SQL-Like Analytics
----
 
 - The project performs analytical operations such as:
 
@@ -77,7 +77,6 @@ The application provides:
 ---
 
 ### Data Visualization
----
 
 - The application generates multiple charts for better understanding of data.
 
@@ -93,7 +92,7 @@ The application provides:
 
 ---
 
-# Technologies Used
+### Technologies Used
 
 * Python
 * Pandas
@@ -102,7 +101,7 @@ The application provides:
 
 ---
 
-# Concepts Demonstrated
+### Concepts Demonstrated
 
 * Data Analysis
 * Data Aggregation
